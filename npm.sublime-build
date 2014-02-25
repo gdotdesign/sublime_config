@@ -1,0 +1,5 @@
+{
+  "shell_cmd": "source ~/.nvm/nvm.sh && npm test",
+  "working_dir": "$project_path",
+  "shell": true
+}
